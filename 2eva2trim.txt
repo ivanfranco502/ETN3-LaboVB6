@@ -1,0 +1,6 @@
+Generar una matriz de 10*10 llena de 0 y 1 al azar.
+Mostrarla e indicar el 0 con mayor cantidad de 1 alrededor.
+Una función deberá recibir la matriz y la posición del 0 para retornar 
+la suma de unos alrededor de ese cero. En caso de haber varios 0 con la misma cantidad
+de 1 a su alrededor, indicar sólo uno de ellos.
+Guardar como 2eva2

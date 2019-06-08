@@ -1,0 +1,11 @@
+Evaluación:
+(2eva1trim)
+El sistema deberá generar y mostrar 5 palabras de 5 caracteres al azar, tengan o no sentido.
+El usuario ingresa otra palabra de 5 caracteres y el sistema deberá indicar cual de sus 
+palabras generadas es la más parecida a la que ingresó el usuario. - Una palabra se parece 
+más a otra, cuantos más caracteres iguales tenga en la misma posición - .
+
+Nota: Guardar la evaluación con el nombre 2eva1trim en una carpeta con el mismo nombre. 
+Se deberá poner el nombre del alumno, su cuenta de usuario y el enunciado a manera de 
+comentario en el General del Form.
+---------------

@@ -1,0 +1,5 @@
+Una aplicaión deberá decir si un número entero positivo ingresado por el usuario es caprichoso.
+Un entero positivo es caprochoso cuando en binario tiene una cantidad impar de unos.
+
+Nota: Guardar la evaluación con el nombre 1eva2 en una carpeta del mismo nombre. Poner 
+usuario, datos del alumno y el enunciado como comentario en el general del form.

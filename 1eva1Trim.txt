@@ -1,0 +1,10 @@
+Un juego consiste en que un jugador avance por una pista de 10 casilleros según 
+los valores obtenidos con un dado.
+Avanza lo que indica el dado si se obtienen valores entre 1 y 3 inclusive, pero 
+retrocede 1 casillero con un 4, 2 con un 5 y 3 con un 6.
+El usuario ingresa en la aplicación los valores obtenidos con 5 tiradas de dados 
+en una sola cadena, el sistema deberá decir en qué casillero quedará. 
+Si el casillero final es negativo mostrará un cero, o si supera la casilla de salida, 
+mostrará un cartel que dice que sa ha pasado del límite. 
+En caso de ser 10 deberá mostrar un cartel de ganador. 
+Ejemplo: "12322" -> Ganador; "3332" -> Pasado; "12445" -> 0 por ser negativo.
